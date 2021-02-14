@@ -1,2 +1,2 @@
 # CyberCafeManagementSystem
-It is C++ Code for Cyber Cafe Management System
+Coding in C++ for Cyber Cafe Management System
